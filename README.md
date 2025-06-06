@@ -1,2 +1,2 @@
 # project-survival
-uas modsur
+ini adalah project akhir mata kuliah model survial dengan tema regresi cox ph
